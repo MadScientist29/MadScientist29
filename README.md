@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @MadScientist29
+# 👋 Hi, I’m Sai Bhargav Karnati
 
-Welcome to my GitHub profile! I'm Sai Bhargav Karnati, a Data Science Master's student at UMBC, passionate about harnessing the power of data to solve real-world problems.
+Welcome to my GitHub profile! I'm a Data Science Master's student at UMBC, passionate about harnessing the power of data to solve real-world problems.
 
 ---
 
