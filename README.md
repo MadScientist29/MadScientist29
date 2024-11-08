@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm Sai Bhargav Karnati, a Data Science Master's s
 - **Machine Learning & NLP**: Exploring how AI can drive impactful change in industries like healthcare and education.
 - **Data Visualization**: Creating interactive, data-driven stories through tools like Excel, Power BI and Tableau.
 - **Cloud Computing**: Building scalable solutions on AWS, Google Cloud, and Azure.
+- **Blogging**: Writing about data science, machine learning, and emerging tech on my [Medium blog](https://medium.com/@saibhargavkarnati) to make complex topics accessible.
+
 
 ## 🌱 I’m currently learning ...
 - **Advanced Data Analytics**: Diving deep into tools like Python, SQL, and Pandas.
@@ -22,6 +24,8 @@ Welcome to my GitHub profile! I'm Sai Bhargav Karnati, a Data Science Master's s
 ## 📫 How to reach me ...
 - LinkedIn: [Sai Bhargav Karnati](https://www.linkedin.com/in/sai-bhargav-karnati/)
 - Email: skarnat1@umbc.edu
+- Medium Blog: [My Data Science Blog](https://medium.com/@saibhargavkarnati)
+
 
 ## 😄 Pronouns:
 He/Him
