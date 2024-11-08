@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a Data Science Master's student at UMBC, passi
 He/Him
 
 ## ⚡ Fun fact:
-When I'm not coding, I enjoy reading sci-fi movies and trying out new recipes! 
+When I'm not coding, I enjoy watching sci-fi movies and trying out new recipes! 
 
 ---
 
