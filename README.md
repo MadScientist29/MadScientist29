@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a Data Science Master's student at UMBC, passi
 - **Hackathons**: I enjoy problem-solving and rapid prototyping with cross-functional teams.
 
 ## 📫 How to reach me ...
-- LinkedIn: [Sai Bhargav Karnati]([www.linkedin.com/in/sai-bhargav-karnati-886883303])
+- LinkedIn: [Sai Bhargav Karnati](https://www.linkedin.com/in/sai-bhargav-karnati-886883303/)
 - Email: skarnat1@umbc.edu
 - Medium Blog: [My Blog](https://medium.com/@saibhargavkarnati)
 
